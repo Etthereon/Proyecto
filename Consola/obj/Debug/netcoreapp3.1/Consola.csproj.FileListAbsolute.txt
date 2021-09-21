@@ -1,0 +1,204 @@
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Persistencia.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Persistencia.pdb
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.csprojAssemblyReference.cache
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CopyComplete
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Felip\Documents\Desarrollo de software\Proyecto\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Persistencia.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Persistencia.pdb
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.csprojAssemblyReference.cache
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CopyComplete
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Javier Fernando\Downloads\Proyecto\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache
+C:\Proyecto\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.csprojAssemblyReference.cache
+C:\Proyecto\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+C:\Proyecto\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+C:\Proyecto\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+C:\Proyecto\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+C:\Proyecto\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Persistencia.dll
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Persistencia.pdb
+C:\Proyecto\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Proyecto\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CopyComplete
+C:\Proyecto\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache
